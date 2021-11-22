@@ -1,0 +1,29 @@
+{
+  "config": {
+    "vehicles": [
+      {
+        "id": 0,
+        "vehType": "Мотоцикл",
+        "speed": 120,
+        "probabilityWheelPuncture": 0.5,
+        "wheelchair": false
+      },
+      {
+        "id": 1,
+        "vehType": "Грузовик",
+        "speed": 80,
+        "probabilityWheelPuncture": 0.3,
+        "weight": 5
+      },
+      {
+        "id": 2,
+        "vehType": "Легковой автомобиль",
+        "speed": 100,
+        "probabilityWheelPuncture": 0.4,
+        "passengers": 2
+      }
+    ],
+    "distance": 1000,
+    "repairTime": 2
+  }
+}
